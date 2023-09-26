@@ -1,5 +1,6 @@
 def main():
-    print("Integrante: Brandon Cha")
+    name = "Brandon Cha" 
+    print("Integrante: " + name)
 
 
 
